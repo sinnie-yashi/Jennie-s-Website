@@ -1,0 +1,48 @@
+h1 {
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 90px;
+	color: #6875b5;
+	text-align: center;
+	margin: 60px 0 0 0;
+}
+
+a {
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 18px;
+}
+
+p {
+	text-align: center;
+	font-family: 'Jim Nightshade', cursive;
+}
+
+.navbar-default {
+	font-size: 18px;
+	font-family: 'Jim Nightshade', cursive;
+	background-color: #ffa500;
+	margin-top: 0px;
+	border-radius: 0px;
+	opacity: .8;
+}
+
+body {
+	
+	text-align: center;
+	background-color: #e8307a;
+	/*background: url("http://clearyfineartphoto.com/wp-content/uploads/2015/04/Rose-Leaves-with-Water-Drops.jpg");*/
+	background-size: cover;
+    background-position: center;
+}
+
+.welcome {
+	font-family: 'Jim Nightshade', cursive;
+	color: #6875b5;
+}
+
+.display-5 {
+	color: #6875b5;
+}
+
+.navbar-brand {
+	font-size: 18px;
+}
